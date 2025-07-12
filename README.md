@@ -1,2 +1,2 @@
 # Baibain-no-ky-fu-Development-discontinued
-バイバインの恐怖を数学的考察でまとめたサイトです
+このサイトは著作権に引っ掛かる可能性があることから開発中止になりました
